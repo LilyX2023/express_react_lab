@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://sealproject1-ten.vercel.app/",
+      "git": "https://github.com/LilyX2023/sealproject1?tab=readme-ov-file",
+      "image": "https://thumbs.dreamstime.com/b/museum-logo-trendy-minimal-linear-style-vector-icon-bank-building-columns-simple-emblem-university-isolated-177740902.jpg"
+    },
+    {
+      "name": "project2",
+      "live": "https://project2-rachely.onrender.com/user/login",
+      "git": "https://github.com/LilyX2023/project2",
+      "image": "https://static.vecteezy.com/system/resources/previews/014/662/247/non_2x/job-search-line-icon-vector.jpg"
+    }
+  ]
